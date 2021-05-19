@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+}
+input[type="button"]
+{
+border-radius: 10px;
+background-color:bisque;
+color: green;
+border-color:purple;
+width:20%;
+height: 60px;
+}
+
+input[type="text"]
+{
+border-radius: 10px;
+text-align: right;
+background-color:whitesmoke;
+color: white;
+border-color: white;
+width:80%;
+height:50px
+}
